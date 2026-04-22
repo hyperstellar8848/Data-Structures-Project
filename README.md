@@ -1,0 +1,1 @@
+Built for the Data Structures course at NIT, I remember this project’s UI had a quirky click-response issue. However, the main objective was on showcasing the data structure implementations, which was where our focus remained. (got the full scores back then anyways:))
